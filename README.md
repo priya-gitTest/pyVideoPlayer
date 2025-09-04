@@ -13,3 +13,4 @@ Windows :
 
  python '.\import cv2.py'
 ```
+To quit, press **q**
