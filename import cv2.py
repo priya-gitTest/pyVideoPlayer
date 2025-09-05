@@ -6,7 +6,7 @@ import tkinter as tk
 video_files = [
     "Bristol vid 1.mp4",
     "Methods RSE conference event - Rolling graphic.mp4",
-    "WhatsApp Video 2025-08-25 at 11.17.46.mp4",
+    "video3.mp4",
     "Animated Slide Deck.mp4"
 ]
 
@@ -62,4 +62,5 @@ while True:
 # Release resources
 for cap in caps:
     cap.release()
+
 cv2.destroyAllWindows()
